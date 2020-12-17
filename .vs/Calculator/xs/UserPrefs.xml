@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{70EAED13-4843-4CA5-BFE9-E5B98C2A9AE0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Brackets.cs">
+    <Files>
+      <File FileName="Calculator/Subtraction.cs" Line="12" Column="38" />
+      <File FileName="Calculator/Addition.cs" Line="15" Column="15" />
+      <File FileName="Calculator/Program.cs" Line="12" Column="79" />
+      <File FileName="Calculator/Brackets.cs" Line="20" Column="15" />
+      <File FileName="Calculator.Tests/CalculatorTests.cs" Line="45" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="Brackets.cs" selected="True" />
+            </Node>
+            <Node name="Calculator.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
